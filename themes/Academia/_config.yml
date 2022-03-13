@@ -34,7 +34,7 @@ social_links:
   #fab fa-weixin: /
   #fab fa-qq: /
   fas fa-envelope: mailto:sjzhou@whu.edu.cn #E-mail
-  fas fa-rss: /  #rss
+  #fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
 # name: url || icon_name
@@ -42,12 +42,12 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: / || fas fa-graduation-cap
-  ORCID: / || fab fa-orcid
+  ORCID: https://orcid.org/0000-0001-9576-5011 || fab fa-orcid
 
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/CV.pdf
+  dir: https://github.com/spaceofzsj/my_cv/raw/master/zhou_cv.pdf
   description: My Detail CV.
 
 # Box-shadow
