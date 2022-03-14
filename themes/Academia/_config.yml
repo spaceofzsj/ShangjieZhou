@@ -3,7 +3,7 @@ favicon: /img/favicon.png
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
 author: 'Shangjie Zhou'
-author_bio: 'Your biography can be writed down here.'
+author_bio: 'Undergraduate @ WHU'
 
 since: 2020
 
@@ -30,6 +30,7 @@ social_links:
   fab fa-github: https://github.com/spaceofzsj
   #fab fa-stack-overflow: /
   fab fa-linkedin: https://www.linkedin.com/in/%E5%B0%9A%E8%8A%82-%E5%91%A8-0b2837196/
+  fab fa-researchgate: https://www.researchgate.net/profile/Shangjie-Zhou
   #fab fa-weibo: /
   #fab fa-weixin: /
   #fab fa-qq: /
