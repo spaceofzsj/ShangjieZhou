@@ -42,8 +42,10 @@ social_links:
 e_social:
   enable: true
 e_social_links:
-  Google Scholar: / || fas fa-graduation-cap
-  ORCID: https://orcid.org/0000-0001-9576-5011 || fab fa-orcid
+  Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=kBNFDgkAAAAJ || ai ai-google-scholar-square ai-lg ai-fw
+  ORCID: https://orcid.org/0000-0001-9576-5011 || ai ai-orcid-square ai-lg ai-fw
+  Publons: https://publons.com/researcher/5056901/shangjie-zhou/ || ai ai-publons-square ai-lg ai-fw
+  arXiv: https://arxiv.org/a/zhou_s_7.html || ai ai-arxiv-square ai-lg ai-fw
 
 # CV download link
 cv_dl:
@@ -64,6 +66,7 @@ CDN_USE:
     - /css/index.css
 #    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
+    - https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css #Academicon
   js:
     - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js
     - https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js
