@@ -46,6 +46,7 @@ e_social_links:
   ORCID: https://orcid.org/0000-0001-9576-5011 || ai ai-orcid-square ai-lg ai-fw
   Publons: https://publons.com/researcher/5056901/shangjie-zhou/ || ai ai-publons-square ai-lg ai-fw
   arXiv: https://arxiv.org/a/zhou_s_7.html || ai ai-arxiv-square ai-lg ai-fw
+  INSPIRE: https://inspirehep.net/authors/2050781?ui-citation-summary=true || ai ai-inspire-square ai-lg ai-fw
 
 # CV download link
 cv_dl:
