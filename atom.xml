@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shangjie Zhou</title>
+  
+  
+  <link href="https://spaceofzsj.github.io/ShangjieZhou/atom.xml" rel="self"/>
+  
+  <link href="https://spaceofzsj.github.io/ShangjieZhou/"/>
+  <updated>2022-06-27T03:50:08.261Z</updated>
+  <id>https://spaceofzsj.github.io/ShangjieZhou/</id>
+  
+  <author>
+    <name>Shangjie Zhou</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About</title>
+    <link href="https://spaceofzsj.github.io/ShangjieZhou/2022/03/14/About/"/>
+    <id>https://spaceofzsj.github.io/ShangjieZhou/2022/03/14/About/</id>
+    <published>2022-03-14T15:41:22.000Z</published>
+    <updated>2022-06-27T03:50:08.261Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h1><p>Welcome! My name is Shangjie Zhou. I’m an undergraduate studying in the <a href="https://physics.whu.edu.cn/">School of Physics and Technology</a> &amp; <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> @ <a href="https://www.whu.edu.cn/">Wuhan University</a>.</p><p>I’m interested in theoretical physics.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;About-Me&quot;&gt;&lt;a href=&quot;#About-Me&quot; class=&quot;headerlink&quot; title=&quot;About Me&quot;&gt;&lt;/a&gt;About Me&lt;/h1&gt;&lt;p&gt;Welcome! My name is Shangjie Zhou. I’m an unde</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
